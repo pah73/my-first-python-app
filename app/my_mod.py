@@ -1,5 +1,5 @@
 
-# app/my_mod.py
+# app.my_mod.py
 
 #
 # We can define custom functions in a separate file (like this one), and import and use these functions in other Python files (like my_script.py).
